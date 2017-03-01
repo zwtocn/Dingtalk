@@ -1,1 +1,13 @@
-{ "markdown": { "title": "明日天气", "text": "#### 明日天气 \n ![ {{TomorrowsCondition}}]( {{ConditionImageURL}} )\n 最低温度：{{LowTempCelsius}} ℃，\n最高温度：{{HighTempCelsius}} ℃" }, "msgtype": "markdown" }
+{
+"msgtype": "text", 
+"text": {
+    "content": "我就是我, 是不一样的烟火"
+}, 
+"at": {
+    "atMobiles": [
+        "156xxxx8827", 
+        "189xxxx8325"
+    ], 
+    "isAtAll": false
+}
+}
